@@ -10,7 +10,7 @@ Formula 1 analysis involves the comprehensive evaluation and interpretation of v
 Formula 1, often referred to as F1, is the pinnacle of motorsport. It is a highly competitive and prestigious racing series that attracts millions of fans from around the world. F1 features cutting-edge technology, top-tier drivers, and globally renowned teams, all competing at the highest level of performance.
 
 The sport traces its origins back to the early 20th century, but it officially began in 1950 with the inaugural Formula 1 World Championship. Since then, it has evolved into a global phenomenon, with races held on renowned circuits across different continents. F1 cars are renowned for their exceptional speed, advanced aerodynamics, and powerful hybrid power units.
-
+[Open Notebook in Collab](https://colab.research.google.com/drive/1lyR3GVKkuD0-Go7eDa-R04oO_8a6A-KE?usp=sharing)
 ![App Screenshot](https://r4.wallpaperflare.com/wallpaper/422/882/465/ineos-iwc-lewis-hamilton-mercedes-amg-petronas-formula-1-hd-wallpaper-21cf3bc48a75fd63d7fa5cca7e1ca608.jpg)
 
 ## dataset
